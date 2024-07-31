@@ -1,7 +1,7 @@
 # Medical-Website
 
 ## Description:
-This webiste contains daily updates on research areas in medical fields, availablity of equipments, beds, etc. in hospitals. Users can also go through some common tutorials which teach them what to do in case of emergency.
+This website contains daily updates on research areas in medical fields, availablity of equipments, beds, etc. in hospitals. Users can also go through some common tutorials which teach them what to do in case of emergency.
 
 ## Steps
 To run the code follow the given steps:
